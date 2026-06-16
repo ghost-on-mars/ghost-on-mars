@@ -1,8 +1,12 @@
 ## Hi there 👋
 
 
-**ghost-on-mars/ghost-on-mars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+#### Languages
+- Python ☆☆☆
+- Java
+- Javascript
+- HTML
+- CSS
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
