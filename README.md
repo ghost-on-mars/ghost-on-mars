@@ -11,6 +11,5 @@ I'm currently trying to upload all my work from the past 4 years on here, both t
 - HTML
 - CSS
 
-#### Education
 Nora Frances Henderson Secondary School - Senior STEM Program 
 
